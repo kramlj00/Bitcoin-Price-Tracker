@@ -27,7 +27,7 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:text="@string/label_default_text"
-        android:textSize="45dp"
+        android:textSize="45sp"
         android:textColor="@color/fontColor"
         android:textStyle="bold"/>
 
